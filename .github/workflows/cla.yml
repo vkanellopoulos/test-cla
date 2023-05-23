@@ -29,7 +29,7 @@ jobs:
           path-to-document: 'https://gist.github.com/vkanellopoulos/d13ce6c9bc63a5e818068b89f9d2b360' # e.g. a CLA or a DCO document
           # branch should not be protected
           branch: 'main'
-          allowlist: vkanellopoulos,bot*
+          allowlist: bot*
 
          # the followings are the optional inputs - If the optional inputs are not given, then default values will be taken
           #remote-organization-name: enter the remote organization name where the signatures should be stored (Default is storing the signatures in the same repository)
